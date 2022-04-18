@@ -1,0 +1,1 @@
+src:true res:true savegames:true temp:true main:true test:true  drawables:true  vectors:true  icons:true 
